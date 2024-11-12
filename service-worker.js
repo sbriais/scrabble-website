@@ -668,7 +668,7 @@ bn(a){var
 b=bc(function(a){return a},a2(a));function
 c(a){return a}return m(function(a){return bd(c,a)},g[aI].all(b))}function
 bo(b){return function(a){b.waitUntil(m(function(a){return a},a));return 0}}g[bF];g["navigator"];g[bY];var
-$=g["caches"],aW="static-v"+"1.5.4",bp=a2(ap(function(a){return"/scrabble-website"+a},cC));function
+$=g["caches"],aW="static-v"+"1.5.5",bp=a2(ap(function(a){return"/scrabble-website"+a},cC));function
 cz(a){return a}function
 cA(a){return a}function
 cB(a){return a}N(au(g)(78),function(a){u(cD);var
